@@ -23,6 +23,10 @@ Tools from my quantity surveying work, the part of construction where a wrong nu
 - [cpm-scheduler](https://github.com/sriram2932/cpm-scheduler): critical path scheduling from a task list, with a text Gantt chart
 - [earned-value-tracker](https://github.com/sriram2932/earned-value-tracker): earned value metrics (CPI, SPI, EAC) from one CSV, so you can see in a minute whether a project is over budget, behind schedule, or both
 
+### Machine learning and Tamil AI
+
+- [tamil-text-classifier](https://github.com/sriram2932/tamil-text-classifier): classifies Tamil sentences by topic, comparing a TF-IDF logistic regression baseline against a small PyTorch neural net, with honest results on 150 sentences I wrote myself
+
 ## Background
 
 - **Work:** 2 years in construction quantity surveying: cost estimation, bills of quantities, tender documents, contracts
