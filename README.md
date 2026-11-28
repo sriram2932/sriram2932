@@ -15,6 +15,7 @@ Tools from my quantity surveying work, the part of construction where a wrong nu
 - [CostTrack API](https://github.com/sriram2932/costtrack-api): a working FastAPI service for BOQ items and cost estimates, with auth and rate limiting
 - [CostTrack API docs](https://github.com/sriram2932/costtrack-api-docs): developer documentation sample, API reference, CLI help and a how-to guide
 - [boq-rate-predictor](https://github.com/sriram2932/boq-rate-predictor): predicts BOQ item rates from past priced items, using a small machine learning model I wrote from scratch in plain Python
+- [boq-rate-predictor-v2](https://github.com/sriram2932/boq-rate-predictor-v2): the same idea rebuilt with scikit-learn and PyTorch, comparing ridge, random forest and a neural net with proper train, validation and test splits, and reporting the results honestly
 - [tender-compare](https://github.com/sriram2932/tender-compare): a web app that compares priced BOQs across bidders in seconds, ranks them, and flags the rates that sit far from the median
 
 ### Planning and project control
@@ -27,7 +28,7 @@ Tools from my quantity surveying work, the part of construction where a wrong nu
 - **Work:** 2 years in construction quantity surveying: cost estimation, bills of quantities, tender documents, contracts
 - **Study:** Diploma in Quantity Surveying, BCA Academy of the Built Environment; Higher Nitec in Accounting, ITE College West
 - **Languages:** Tamil (native) and English (fluent)
-- **Learning now:** Python, SQL, and back-end web development
+- **Learning now:** Python, SQL, back-end web development, and machine learning with scikit-learn and PyTorch
 - **Also:** Google Data Analytics certified; AI training and evaluation work
 
 ## Tools I use
